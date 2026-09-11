@@ -1,6 +1,7 @@
 <div align="center">
 
-# Dev Kumar — AI & Automation Engineer
+# Hey Hii I'm Dev 
+ — AI & Automation Engineer
 
 **I don't wait to be taught. I build, break, and figure things out.**
 
