@@ -1,42 +1,72 @@
-# 👋 Hi, I'm Dev Kumar
+<div align="center">
 
-🚀 I build AI automation systems that automate content creation and digital business workflows.
+# Dev Kumar — AI & Automation Engineer
 
-## 🔥 Projects
+**I don't wait to be taught. I build, break, and figure things out.**
 
-* 🤖 AI Content Automation (Prompt → Video → Upload)
-* 💰 Telegram Auto-Selling Bot (Payment + Auto Delivery)
-* 🌐 Browser-Control AI (Automation without API)
+Self-taught. No degree. Just real projects, real code, and real results.  
+Looking for a job or internship where I can ship things that matter.
 
-## ⚙️ Skills
+[![Email](https://img.shields.io/badge/devkumarmukhiya300%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:devkumarmukhiya300@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-India%20%7C%20Remote-0A66C2?style=flat)](mailto:devkumarmukhiya300@gmail.com)
 
-* Python
-* Flask
-* Automation (Selenium)
-* AI Tools / APIs
+</div>
 
-## 🎯 Focus
+---
 
-* AI Automation
-* Business Systems
-* Content Generation
+## What I do
 
-## 📬 Contact
+I build AI systems, automation pipelines, bots, and full products — end to end.  
+No hand-holding needed. Give me a problem, I'll return a working solution.
 
-* email : (devkumarmukhiya300@gmail.com)
+---
 
+## Projects
 
-<!--
-**Devkumar300/devkumar300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI Content Automation Pipeline
+Prompt goes in. Video comes out. Auto-uploaded. Zero manual steps.  
+Built with Python + AI APIs + scheduling — runs fully on its own.
 
-Here are some ideas to get you started:
+### 💸 Telegram Auto-Selling Bot
+A complete digital product business inside Telegram.  
+Payment gateway → order processing → instant delivery. Fully automated.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Browser-Control AI Agent
+An AI that controls a real browser — clicks, fills forms, navigates pages.  
+No official API needed. Works where nothing else does.
+
+---
+
+## Skills
+
+```
+Core Language     Python
+AI & LLMs         OpenAI · Claude · Hugging Face · multiple AI APIs
+Automation        Selenium · browser agents · bots · scheduled pipelines  
+Backend           Flask · REST APIs · webhooks · payment integrations
+Tools             Git · Linux · Telegram Bot API · web scraping
+```
+
+---
+
+## What makes me different
+
+- **Self-taught** — everything I know, I learned by building
+- **Multi-API AI experience** — not locked into one tool or platform  
+- **Full product thinking** — I don't just write scripts, I build systems
+- **Fast learner** — if a technology exists, I can work with it
+
+---
+
+## Currently looking for
+
+A role (full-time, internship, or remote) where I can build AI and automation systems.  
+India-based or remote — both work for me.
+
+---
+
+## Let's talk
+
+📬 [devkumarmukhiya300@gmail.com](mailto:devkumarmukhiya300@gmail.com)
+
+</div>
