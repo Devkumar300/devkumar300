@@ -35,7 +35,7 @@ Payment gateway → order processing → instant delivery. Fully automated.
 ### 🌐 Browser-Control AI Agent
 An AI that controls a real browser — clicks, fills forms, navigates pages.  
 No official API needed. Works where nothing else does.
-work flow___ prompt "Go to YouTube, search for 'AI video', and play the first result." open youtube, click search button,type ai video, click first video 
+
 ---
 
 ## Skills
